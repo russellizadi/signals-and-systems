@@ -4,4 +4,5 @@ This repository contains some notebooks that might help with the signals and sys
 
 * [An introduction to the colab](https://github.com/russellizadi/signals-and-systems/blob/master/colab-notebooks/Welcome_To_Colaboratory.ipynb)
 * [ND_F20_EE_30344_01_HW1](https://github.com/russellizadi/signals-and-systems/blob/master/colab-notebooks/ND_F20_EE_30344_01_HW1.ipynb)
+* [ND_F20_EE_30344_01_HW2](https://github.com/russellizadi/signals-and-systems/blob/master/colab-notebooks/ND_F20_EE_30344_01_HW2.ipynb)
 * [ND_F20_EE_30344_01_HW3](https://github.com/russellizadi/signals-and-systems/blob/master/colab-notebooks/ND_F20_EE_30344_01_HW3.ipynb)
